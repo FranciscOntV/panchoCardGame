@@ -1,0 +1,274 @@
+{
+  "version": 2.12,
+  "cardset_id": "7de6a40d-f320-4ae9-abc6-75432d0ca0ac",
+  "name": "Unique Card",
+  "blueprint_id": "71b91fa3-08c3-4678-a674-74d82241e9a9",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "173203a2-83ad-4287-b3b4-5aff5aa1682f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2b6de99d-b69c-466c-8151-53d9466e2b66",
+          "panels": [
+            {
+              "blueprint_panel_id": "e0656c72-03e2-4f45-842e-70a0bafa53d0",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Unique/hector-ortiz-157913-will-o-wisp-hortiz-final.jpg",
+                "fit_mode": "fit"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "87d667dd-49a6-452f-afd7-09d74f590e74",
+          "panels": [
+            {
+              "blueprint_panel_id": "3305a86c-3e6c-4fd4-9d0c-2400e484d876",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "a1bccfeb-65d1-4562-912e-ac371fd05444",
+          "panels": [
+            {
+              "blueprint_panel_id": "926e0937-12b8-451d-b955-0b4ae8ba1cee",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "826d273b-e8ea-4a38-8c1e-e76e088e1553",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a19b5736-ac60-4600-8dfb-6f0ace58ee61",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "c9dc9828-86c0-42a9-a14d-b851d0a2d40e",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a533cdb-9a84-4ca0-a346-24263f9867fc",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1aae9ab6-7144-4bdf-a9de-318c47f0f1b1",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cdaf657-a0b1-4c9c-8b6c-1b2fff5ee170",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "32275585-5d13-4eac-be73-6464cc80a62d",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "df9c9413-5c47-425f-ab55-b3fe63a0bcb1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eaf8f872-f4b6-4c9a-b740-fcaae078f5db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "DMO-001-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "b837d62c-2d75-479e-9396-84cb3e7fa009",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "b63e36aa-f8a5-4f12-9460-1a518bfe4042",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "221c2cca-2d96-40c3-9042-d69a201eaf48",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Lower Mana"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "093c269a-33ba-4655-974b-9a2fe37389ba",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "2b6de99d-b69c-466c-8151-53d9466e2b66",
+          "panels": [
+            {
+              "blueprint_panel_id": "e0656c72-03e2-4f45-842e-70a0bafa53d0",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Unique/hector-ortiz-157913-will-o-wisp-hortiz-final - Copy.jpg"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "87d667dd-49a6-452f-afd7-09d74f590e74",
+          "panels": [
+            {
+              "blueprint_panel_id": "3305a86c-3e6c-4fd4-9d0c-2400e484d876",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "a1bccfeb-65d1-4562-912e-ac371fd05444",
+          "panels": [
+            {
+              "blueprint_panel_id": "926e0937-12b8-451d-b955-0b4ae8ba1cee",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "826d273b-e8ea-4a38-8c1e-e76e088e1553",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a19b5736-ac60-4600-8dfb-6f0ace58ee61",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "c9dc9828-86c0-42a9-a14d-b851d0a2d40e",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/eclipse-flare",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a533cdb-9a84-4ca0-a346-24263f9867fc",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1aae9ab6-7144-4bdf-a9de-318c47f0f1b1",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cdaf657-a0b1-4c9c-8b6c-1b2fff5ee170",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "32275585-5d13-4eac-be73-6464cc80a62d",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "df9c9413-5c47-425f-ab55-b3fe63a0bcb1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eaf8f872-f4b6-4c9a-b740-fcaae078f5db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "DMO-002-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "b837d62c-2d75-479e-9396-84cb3e7fa009",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "b63e36aa-f8a5-4f12-9460-1a518bfe4042",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "221c2cca-2d96-40c3-9042-d69a201eaf48",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Higher Mana"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

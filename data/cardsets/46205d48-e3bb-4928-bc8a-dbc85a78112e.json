@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "46205d48-e3bb-4928-bc8a-dbc85a78112e",
+  "name": "Simple Card",
+  "blueprint_id": "2dcfa11c-518c-459b-bbe2-3951009deccd",
+  "hint_order_index": 5,
+  "cards": [
+    {
+      "card_id": "05b02dcc-e3f7-492a-8dc6-60d4249a9539",
+      "amount": 1
+    }
+  ]
+}

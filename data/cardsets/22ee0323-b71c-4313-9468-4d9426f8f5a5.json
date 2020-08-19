@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "22ee0323-b71c-4313-9468-4d9426f8f5a5",
+  "name": "Extended Card",
+  "blueprint_id": "a529f651-5ae6-4d5f-a04e-df3f9530d4bb",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "abf18213-074b-43f2-b56f-bd16b6b67c59",
+      "amount": 1
+    }
+  ]
+}

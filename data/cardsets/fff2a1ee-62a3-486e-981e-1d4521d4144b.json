@@ -1,0 +1,508 @@
+{
+  "version": 2.12,
+  "cardset_id": "fff2a1ee-62a3-486e-981e-1d4521d4144b",
+  "name": "Shortened Card",
+  "blueprint_id": "c8837fa8-8714-4e6d-9a45-c88a4bf655b3",
+  "hint_order_index": 6,
+  "cards": [
+    {
+      "card_id": "5289ec95-57ff-4d66-a041-d63915e41453",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7edca67e-fe79-45c9-98d0-07302401d7b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "ee403d43-985c-4727-9e4c-1d014ca093da",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Generator.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "614814b4-8174-41a4-8263-10f6fa6041b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f32a454-8edd-4bc0-bcbd-8fe58ad325c1",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "343a1282-cd68-4268-8066-937a91ac533f",
+          "panels": [
+            {
+              "blueprint_panel_id": "03b2fb59-e0b8-4c0f-a08b-f71d75bf854c",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/doubled",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d0e3f351-7be8-45e1-b197-1db5f635cb22",
+              "type": "text",
+              "data": {
+                "text": "If this card is at full mana increase the max mana of this card by 1 (for a max of 4)."
+              }
+            },
+            {
+              "blueprint_panel_id": "539216b0-6ed6-4a8d-9a24-e6c56254caec",
+              "type": "text",
+              "data": {
+                "text": "<b>Passive:</b> At the end of your turn, restore 1 mana point on this card."
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "249c8785-098c-461a-b866-c745b3f2ad7f",
+          "panels": [
+            {
+              "blueprint_panel_id": "44951435-fb76-477d-933c-3afa40a867b5",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "cf178ef2-9158-479a-b2d1-c3de57d4f9cb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "4bd7bb9e-253c-40d0-bfa8-d6c5e648859b",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "87cda07c-f35b-4e4c-b597-a14b1a7d554f",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "65dfad8a-8c2c-4182-839d-336ea73a4e64",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "fd34a267-6bc8-4e56-bc5e-7ab5361fcbcb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "ad0a9f9e-07cb-4eb6-a2f1-be9daca1a854",
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a58f5ca8-ea51-469b-be29-e195384b16db",
+              "type": "text",
+              "data": {
+                "text": "DMO-003-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "2cc3cda3-e302-4e07-a1d4-81154750748e",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "d31732f7-5854-48c6-96ea-51b7a1c8e332",
+              "type": "text",
+              "data": {
+                "text": "Mana Candle"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "44e50c02-972a-46e4-abd6-b6fdd4d1db7c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7edca67e-fe79-45c9-98d0-07302401d7b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "ee403d43-985c-4727-9e4c-1d014ca093da",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Hax.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "614814b4-8174-41a4-8263-10f6fa6041b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f32a454-8edd-4bc0-bcbd-8fe58ad325c1",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "343a1282-cd68-4268-8066-937a91ac533f",
+          "panels": [
+            {
+              "blueprint_panel_id": "03b2fb59-e0b8-4c0f-a08b-f71d75bf854c",
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/dead-eye",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d0e3f351-7be8-45e1-b197-1db5f635cb22",
+              "type": "text",
+              "data": {
+                "text": "Move one of your cards to an empty slot \n<b>or</b>\n Pay 1 mana point to move an enemy card to an empty slot of the enemy."
+              }
+            },
+            {
+              "blueprint_panel_id": "ad86d5ed-a9d3-451b-9609-b1e17f81a882",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/skull-crossed-bones",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "539216b0-6ed6-4a8d-9a24-e6c56254caec",
+              "type": "text",
+              "data": {
+                "text": "<b>On death: </b> Move every enemy card to the next place clockwise."
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "249c8785-098c-461a-b866-c745b3f2ad7f",
+          "panels": [
+            {
+              "blueprint_panel_id": "44951435-fb76-477d-933c-3afa40a867b5",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "4bd7bb9e-253c-40d0-bfa8-d6c5e648859b",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "87cda07c-f35b-4e4c-b597-a14b1a7d554f",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "65dfad8a-8c2c-4182-839d-336ea73a4e64",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "fd34a267-6bc8-4e56-bc5e-7ab5361fcbcb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "ad0a9f9e-07cb-4eb6-a2f1-be9daca1a854",
+              "type": "text",
+              "data": {
+                "text": "0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a58f5ca8-ea51-469b-be29-e195384b16db",
+              "type": "text",
+              "data": {
+                "text": "DMO-004-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "2cc3cda3-e302-4e07-a1d4-81154750748e",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "d31732f7-5854-48c6-96ea-51b7a1c8e332",
+              "type": "text",
+              "data": {
+                "text": "Tactics Banner"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9f941c2e-d3d1-4c2f-835c-c285ba93a619",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7edca67e-fe79-45c9-98d0-07302401d7b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "ee403d43-985c-4727-9e4c-1d014ca093da",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Supporter.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "614814b4-8174-41a4-8263-10f6fa6041b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f32a454-8edd-4bc0-bcbd-8fe58ad325c1",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "343a1282-cd68-4268-8066-937a91ac533f",
+          "panels": [
+            {
+              "blueprint_panel_id": "03b2fb59-e0b8-4c0f-a08b-f71d75bf854c",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/hospital-cross",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d0e3f351-7be8-45e1-b197-1db5f635cb22",
+              "type": "text",
+              "data": {
+                "text": "If none of your cards has a Guard token, Put a Guard token on any of your cards."
+              }
+            },
+            {
+              "blueprint_panel_id": "ad86d5ed-a9d3-451b-9609-b1e17f81a882",
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/lob-arrow",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "539216b0-6ed6-4a8d-9a24-e6c56254caec",
+              "type": "text",
+              "data": {
+                "text": "<b>On enter: </b> Put a Guard token on any other card."
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "249c8785-098c-461a-b866-c745b3f2ad7f",
+          "panels": [
+            {
+              "blueprint_panel_id": "44951435-fb76-477d-933c-3afa40a867b5",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "cf178ef2-9158-479a-b2d1-c3de57d4f9cb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "4bd7bb9e-253c-40d0-bfa8-d6c5e648859b",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "87cda07c-f35b-4e4c-b597-a14b1a7d554f",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "65dfad8a-8c2c-4182-839d-336ea73a4e64",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "fd34a267-6bc8-4e56-bc5e-7ab5361fcbcb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "ad0a9f9e-07cb-4eb6-a2f1-be9daca1a854",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "a58f5ca8-ea51-469b-be29-e195384b16db",
+              "type": "text",
+              "data": {
+                "text": "DMO-004-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "2cc3cda3-e302-4e07-a1d4-81154750748e",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "d31732f7-5854-48c6-96ea-51b7a1c8e332",
+              "type": "text",
+              "data": {
+                "text": "Energy Field"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "01a6c609-f53d-470e-835f-0078f6be50ab",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7edca67e-fe79-45c9-98d0-07302401d7b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "ee403d43-985c-4727-9e4c-1d014ca093da",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Front.png"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "614814b4-8174-41a4-8263-10f6fa6041b1",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f32a454-8edd-4bc0-bcbd-8fe58ad325c1",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/plain-circle",
+                "color_tint": "#C8C8C8FF",
+                "color_background": "#42424200"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "343a1282-cd68-4268-8066-937a91ac533f",
+          "panels": [
+            {
+              "blueprint_panel_id": "03b2fb59-e0b8-4c0f-a08b-f71d75bf854c",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/crossed-swords",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d0e3f351-7be8-45e1-b197-1db5f635cb22",
+              "type": "text",
+              "data": {
+                "text": "Deal 1 point of damage, if the target has a Guard token, deal 1 extra point of damage."
+              }
+            },
+            {
+              "blueprint_panel_id": "ad86d5ed-a9d3-451b-9609-b1e17f81a882",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/skull-crossed-bones",
+                "color_tint": "#FFFFFFFD",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "539216b0-6ed6-4a8d-9a24-e6c56254caec",
+              "type": "text",
+              "data": {
+                "text": "<b>On death: </b> Deal 1 damage to enemy player  and remove a Guard token on any enemy card."
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "249c8785-098c-461a-b866-c745b3f2ad7f",
+          "panels": [
+            {
+              "blueprint_panel_id": "44951435-fb76-477d-933c-3afa40a867b5",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "cf178ef2-9158-479a-b2d1-c3de57d4f9cb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "4bd7bb9e-253c-40d0-bfa8-d6c5e648859b",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "87cda07c-f35b-4e4c-b597-a14b1a7d554f",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "65dfad8a-8c2c-4182-839d-336ea73a4e64",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "fd34a267-6bc8-4e56-bc5e-7ab5361fcbcb",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "ad0a9f9e-07cb-4eb6-a2f1-be9daca1a854",
+              "type": "text",
+              "data": {
+                "text": "1"
+              }
+            },
+            {
+              "blueprint_panel_id": "a58f5ca8-ea51-469b-be29-e195384b16db",
+              "type": "text",
+              "data": {
+                "text": "DMO-004-01"
+              }
+            },
+            {
+              "blueprint_panel_id": "2cc3cda3-e302-4e07-a1d4-81154750748e",
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/split-cross",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#FFFFFF00"
+              }
+            },
+            {
+              "blueprint_panel_id": "d31732f7-5854-48c6-96ea-51b7a1c8e332",
+              "type": "text",
+              "data": {
+                "text": "Breaker Ballista"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

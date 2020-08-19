@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "cardset_id": "1b337a6e-8c0f-4b2c-a641-b3b2d7ccf049",
+  "name": "Semi Extended Card",
+  "blueprint_id": "2cac0b81-6546-43ff-853e-dfb4b6c2a70e",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "162b12a6-3424-4a6f-a0fb-7622cb33b6c8",
+      "amount": 1
+    }
+  ]
+}

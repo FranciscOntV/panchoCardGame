@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "image_format": "png",
+  "image_height": 1024,
+  "image_dpi": 4,
+  "paper_size": "ansib",
+  "paper_landscape": false,
+  "scale_override": 1.0,
+  "card_spacing": 0,
+  "export_images": false,
+  "export_pdf": false,
+  "export_tts": true
+}
